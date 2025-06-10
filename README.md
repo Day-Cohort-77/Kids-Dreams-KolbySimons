@@ -52,7 +52,7 @@ Before you click the "Complete Assessment" button on the Learning Platform, add 
 
 4. Can you describe, in detail, the algorithm that is in the `main` module?
    > -Import Pairings, Celebrities, and Kids functions that generate HTML.
-   > -Find the DOM element for where the application html will go
-   > -Create the HTML structure
-   > -Invoke functions in the html structure that will generate html strings
-   > -Render it to the DOM
+   > -Find the DOM element for where the application html will go.
+   > -Create the HTML structure.
+   > -Invoke functions in the html structure that will generate html strings.
+   > -Render it to the DOM.
